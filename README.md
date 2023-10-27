@@ -30,7 +30,14 @@
       - tqdm==4.65.0
 
     - API Server
+      - Django==4.2.6
+      - django-cors-headers==4.3.0
+      - djangorestframework==3.14.0
+      - gunicorn==20.1.0
+
     - DB Server
+      - mysql-connector-python==8.2.0
+      - mysqlclient==2.1.1
    
   - ### System Architecture
     <img width="1000" alt="스크린샷 2023-10-27 오후 5 03 28" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/6374ad0e-eca5-4781-9c9e-eea18b12c238">
