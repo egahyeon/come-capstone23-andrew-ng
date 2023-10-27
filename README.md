@@ -39,7 +39,7 @@
     <img width="1000" alt="process" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/10a417e1-9ea9-4310-8249-8d61fdf1b105">
 
   - ### System Flow Chart
-    <img width="300" alt="flow chart" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/08db7880-46d8-4b4a-b4b3-1b1194012dfc">
+    <img width="350" alt="flow chart" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/08db7880-46d8-4b4a-b4b3-1b1194012dfc">
 
 
 ## Case Study
