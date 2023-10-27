@@ -17,8 +17,18 @@
   
 ## System Design
   - ### System Requirements
-    - OOO
-    - OOO
+    - DL Server
+      - cuda==12.1
+      - torch==2.0.0
+      - torchvision==0.15.1
+      - opencv-python==4.7.0.72
+      - numpy==1.24.2
+      - pandas==2.0.0
+      - ultralytics==8.0.72
+      - tqdm==4.65.0
+
+    - API Server
+    - DB Server
    
   - ### System Architecture
     <img width="1000" alt="스크린샷 2023-10-27 오후 5 03 28" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/6374ad0e-eca5-4781-9c9e-eea18b12c238">
@@ -33,6 +43,3 @@
 ## Conclusion
   - ### OOO
   - ### OOO
-  
-## Project Outcome
-- ### 20XX 년 OO학술대회 
