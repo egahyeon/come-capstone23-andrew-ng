@@ -35,7 +35,11 @@
   - ### System Architecture
     <img width="1000" alt="스크린샷 2023-10-27 오후 5 03 28" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/6374ad0e-eca5-4781-9c9e-eea18b12c238">
 
+  - ### System Process
     <img width="1000" alt="process" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/10a417e1-9ea9-4310-8249-8d61fdf1b105">
+
+  - ### System Flow Chart
+    <img width="500" alt="flow chart" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/08db7880-46d8-4b4a-b4b3-1b1194012dfc">
 
 
 ## Case Study
