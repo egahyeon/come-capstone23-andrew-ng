@@ -49,8 +49,6 @@
     <img width="350" alt="flow chart" src="https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/assets/83907194/08db7880-46d8-4b4a-b4b3-1b1194012dfc">
 
 
-## Case Study
-  - ### Description
   
   
 ## Conclusion
