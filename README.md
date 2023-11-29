@@ -52,5 +52,10 @@
   
   
 ## Results
-  - ### OOO
-  - ### OOO
+  - ### 접속 화면 (노트 접속)
+  - https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/issues/1#issue-2016462613
+  - https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/issues/1
+    
+  - ### 접속 화면 (핸드폰 접속)
+  - https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/issues/2#issue-2016468592
+  - https://github.com/HBNU-SWUNIV/come-capstone23-andrew-ng/issues/2
